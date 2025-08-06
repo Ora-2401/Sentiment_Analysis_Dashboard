@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+matplotlib
+nltk
+wordcloud
+huggingface_hub
+scikit-learn
+openpyxl 
+xlsxwriter
+vaderSentiment
